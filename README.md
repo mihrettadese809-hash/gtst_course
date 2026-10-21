@@ -1,2 +1,2 @@
 # gtst_course
-my cybersecurity learning notes
+welcome to my cybersecurity learning notes
